@@ -1,7 +1,7 @@
 # Domain Adaptation with Shared Latent Dynamics and Adversarial Matching
 This repository contains PyTorch code for the paper
 
-[Unsupervised Domain Adaptation with Shared Latent Dynamics for Reinforcement Learning](https://drive.google.com/open?id=1r7g4fbMDd55jMhEUVhDWYwXEjPyVLG2t) (accepted to [Bayesian Deep Learning workshop @ NeurIPS 2019](http://bayesiandeeplearning.org/))
+[Unsupervised Domain Adaptation with Shared Latent Dynamics for Reinforcement Learning](http://bayesiandeeplearning.org/2019/papers/102.pdf) (accepted to [Bayesian Deep Learning workshop at NeurIPS 2019](http://bayesiandeeplearning.org/))
 
 by Evgenii Nikishin, Arsenii Ashukha and Dmitry Vetrov.
 
